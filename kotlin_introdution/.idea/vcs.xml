@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/estruturas_de_classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/estruturas_de_decisao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/estruturas_de_enumeradores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/estruturas_de_funcoes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/estruturas_de_map_filter_reduce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/estruturas_de_repeticao" vcs="Git" />
+  </component>
+</project>
